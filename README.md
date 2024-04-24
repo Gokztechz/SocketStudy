@@ -82,7 +82,9 @@ s.send("acknowledgement recived from the server".encode())
 ### Client:
 ![image](https://github.com/Gokztechz/SocketStudy/assets/117667038/9d29144e-4209-412c-8f0f-ab5b41fdaa87)
 ### Server:
-![image](https://github.com/Gokztechz/SocketStudy/assets/117667038/82edd5f7-4216-4a41-ac3f-2762fa009c0d)
+![image](https://github.com/Gokztechz/SocketStudy/assets/117667038/c9e5f083-6aa4-4565-ab7b-2c58b7ac2e8b)
+
+
 
 
 
